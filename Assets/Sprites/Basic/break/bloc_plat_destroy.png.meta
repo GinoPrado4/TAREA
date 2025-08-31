@@ -1,0 +1,420 @@
+fileFormatVersion: 2
+guid: ea69025e8ee7d9c4fa4a6bc7b35b9388
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8946277219420790537
+    second: bloc_plat_destroy_0
+  - first:
+      213: -3505975671717555906
+    second: bloc_plat_destroy_1
+  - first:
+      213: 5938085698585513871
+    second: bloc_plat_destroy_2
+  - first:
+      213: -6976677790364030773
+    second: bloc_plat_destroy_3
+  - first:
+      213: 2331819652924354661
+    second: bloc_plat_destroy_4
+  - first:
+      213: 6462061737901963679
+    second: bloc_plat_destroy_5
+  - first:
+      213: 3747698088482049232
+    second: bloc_plat_destroy_6
+  - first:
+      213: 93374993544109936
+    second: bloc_plat_destroy_7
+  - first:
+      213: -7673754729818732024
+    second: bloc_plat_destroy_8
+  - first:
+      213: -7491566190838541874
+    second: bloc_plat_destroy_9
+  - first:
+      213: -4967442388231136890
+    second: bloc_plat_destroy_10
+  - first:
+      213: -7518636358497482311
+    second: bloc_plat_destroy_11
+  - first:
+      213: 384899162297867793
+    second: bloc_plat_destroy_12
+  - first:
+      213: 4790979771458583689
+    second: bloc_plat_destroy_13
+  - first:
+      213: -3121083102424210369
+    second: bloc_plat_destroy_14
+  - first:
+      213: -6609389293075072437
+    second: bloc_plat_destroy_15
+  - first:
+      213: -1139105958466519008
+    second: bloc_plat_destroy_16
+  - first:
+      213: 1544362972648753889
+    second: bloc_plat_destroy_17
+  - first:
+      213: 8527382831214714317
+    second: bloc_plat_destroy_18
+  - first:
+      213: 8928522594067428613
+    second: bloc_plat_destroy_19
+  - first:
+      213: 8467761242836927913
+    second: bloc_plat_destroy_20
+  - first:
+      213: 4551748900729630716
+    second: bloc_plat_destroy_21
+  - first:
+      213: -3705405327236965449
+    second: bloc_plat_destroy_22
+  - first:
+      213: -520754697601583057
+    second: bloc_plat_destroy_23
+  - first:
+      213: 7442005623181773172
+    second: bloc_plat_destroy_24
+  - first:
+      213: -8344338231069237929
+    second: bloc_plat_destroy_25
+  - first:
+      213: -2586772403363236327
+    second: bloc_plat_destroy_26
+  - first:
+      213: 6085966964473464650
+    second: bloc_plat_destroy_27
+  - first:
+      213: -1360695132460879417
+    second: bloc_plat_destroy_28
+  - first:
+      213: 3960991873379545759
+    second: bloc_plat_destroy_29
+  - first:
+      213: -7018129211629989062
+    second: bloc_plat_destroy_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bloc_plat_destroy_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 84
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 36, y: 6}
+        - {x: 36, y: 7}
+        - {x: -37, y: 7}
+        - {x: -37, y: 6}
+        - {x: -36, y: 6}
+        - {x: -28, y: 6}
+        - {x: 35, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa1ae2fdf49cb543967feb962e8fda6
+      internalID: -8946277219420790537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloc_plat_destroy_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 0
+        width: 84
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 36, y: 6}
+        - {x: 36, y: 7}
+        - {x: -37, y: 7}
+        - {x: -37, y: 6}
+        - {x: -36, y: 6}
+        - {x: -28, y: 6}
+        - {x: 35, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a5ff1ac1dc00a4692a27591ed319d1
+      internalID: -3505975671717555906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloc_plat_destroy_2
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 84
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 36, y: 6}
+        - {x: 36, y: 7}
+        - {x: -37, y: 7}
+        - {x: -37, y: 6}
+        - {x: -36, y: 6}
+        - {x: -28, y: 6}
+        - {x: 35, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614da1e85282d964d8984067f5b4018f
+      internalID: 5938085698585513871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloc_plat_destroy_3
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 0
+        width: 84
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 36, y: 6}
+        - {x: 36, y: 7}
+        - {x: -37, y: 7}
+        - {x: -37, y: 6}
+        - {x: -36, y: 6}
+        - {x: -28, y: 6}
+        - {x: 35, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f063350498356e040babc18600a55b38
+      internalID: -6976677790364030773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloc_plat_destroy_4
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 84
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 36, y: 6}
+        - {x: 36, y: 7}
+        - {x: -37, y: 7}
+        - {x: -37, y: 6}
+        - {x: -36, y: 6}
+        - {x: -28, y: 6}
+        - {x: 35, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ea70eb9377f7c409a528c3a26853d1
+      internalID: 2331819652924354661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloc_plat_destroy_5
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 0
+        width: 84
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 36, y: 6}
+        - {x: 36, y: 7}
+        - {x: -37, y: 7}
+        - {x: -37, y: 6}
+        - {x: -36, y: 6}
+        - {x: -28, y: 6}
+        - {x: 35, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c84f35997132cbc42b51b6aef49709f9
+      internalID: 6462061737901963679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloc_plat_destroy_6
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 0
+        width: 84
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 36, y: 6}
+        - {x: 36, y: 7}
+        - {x: -37, y: 7}
+        - {x: -37, y: 6}
+        - {x: -36, y: 6}
+        - {x: -28, y: 6}
+        - {x: 35, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fceed8af0cb33a84686cbf6cb12e3362
+      internalID: 3747698088482049232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a6a9dfe5fc9988a419083aa73d1b9e05
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bloc_plat_destroy_0: -8946277219420790537
+      bloc_plat_destroy_1: -3505975671717555906
+      bloc_plat_destroy_2: 5938085698585513871
+      bloc_plat_destroy_3: -6976677790364030773
+      bloc_plat_destroy_4: 2331819652924354661
+      bloc_plat_destroy_5: 6462061737901963679
+      bloc_plat_destroy_6: 3747698088482049232
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
